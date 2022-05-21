@@ -205,8 +205,6 @@ nav>.links>.dropdown-container>li:hover .dropdown {
 .highlight-img img {
     width: 567px;
     height: 427px;
-    /* position: relative;
-    right: 30px; */
 }
 
 /* footer-style */
@@ -222,8 +220,6 @@ nav>.links>.dropdown-container>li:hover .dropdown {
     justify-content: center;
     align-items: center;
     column-gap: 20px;
-    /* position: relative;
-    left: 50px */
 }
 
 .footer-img img {
@@ -308,8 +304,6 @@ nav>.links>.dropdown-container>li:hover .dropdown {
     }
 
     .player {
-        /* position: relative;
-        left: 10px; */
         padding: 5px;
     }
 
@@ -343,8 +337,6 @@ nav>.links>.dropdown-container>li:hover .dropdown {
     .highlight-img img {
         width: 320px;
         height: 248px;
-        /* position: relative;
-        right: 5px; */
     }
 
     .footer-container {
