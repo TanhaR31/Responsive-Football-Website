@@ -112,6 +112,7 @@ nav>.links>.dropdown-container>li:hover .dropdown {
     margin-right: 140px;
     width: 556.01px;
     height: 438px;
+    transition: transform 3s;
 }
 
 .live-banner:hover img {
